@@ -47,6 +47,7 @@ concepts = {
     "data structure": "The format used to organize, manage, and store data:",
     "dynamic language": '''A type of programming language that verifies and enforces constraints
     at runtime instead of beforehand, such as Ruby and Python:''',
+    "dhcp": "Acronym for Dynamic Host Configuration Protocol",
     "event": "An action that causes something to happen:",
     "exception": "An unplanned event that disrupts the normal flow of the program:",
     "for loop": "A loop with a predetermined beginning, end, and increment (step interval):", 
@@ -129,9 +130,4 @@ concepts = {
     "whiteboarding": '''Writing code on a whiteboard, often part of technical interviews and
     group projects:''',
     "xml": "Acronym for extensible markup language:",
-  
-
     }
-
-
-
