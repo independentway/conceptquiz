@@ -1,6 +1,6 @@
 import random
 import tkinter as tk
-from diccionariodepruebas import concepts
+from DICTIO_coding_concepts_eduardo import concepts
 import copy 
 
 copy_dictionary = copy.deepcopy(concepts) # copying the dictionary to avoid modifying the original one
