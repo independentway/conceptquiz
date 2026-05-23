@@ -23,6 +23,3 @@ Am still in the process of creating a new desktop icon for it since I somehow ma
 
 
 
-
-
-eduardocerrigaviria@gmail.com 
