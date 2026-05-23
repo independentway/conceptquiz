@@ -23,5 +23,5 @@ If you are a developer or want to run the program directly using Python, follow 
 1. Clone this repository:
    
 ```bash
-   git clone [https://github.com/independentway/conceptquiz.git]
+   git clone https://github.com/independentway/conceptquiz.git
    cd conceptquiz
